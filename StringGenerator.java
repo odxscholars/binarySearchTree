@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Random;
 
 public class StringGenerator {
     public ArrayList<String> strings = new ArrayList<String>();
@@ -13,12 +14,15 @@ public class StringGenerator {
 
     public String randomizeString(){
         //generate a random string of length 10 raised to n
-        s = "";
+        Random rand = new Random();
+//        s = "";
+        StringBuilder sb = new StringBuilder();
         for(int i = 0; i < Math.pow(10, n); i++){
-            s += alphabet.charAt((int)(Math.random() * 4));
+            sb.append(alphabet.charAt(rand.nextInt(alphabet.length())));
+//            s += alphabet.charAt((int)(Math.random() * 4));
         }
-
-        return s;
+        s = sb.toString();
+        return sb.toString();
 
 
     }
