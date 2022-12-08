@@ -1,0 +1,75 @@
+Generating random string of length 10^4with k size of 5
+
+real	0m0.284s
+user	0m0.119s
+sys	0m0.082s
+Generating random string of length 10^4with k size of 5
+
+real	0m0.125s
+user	0m0.115s
+sys	0m0.038s
+Generating random string of length 10^4with k size of 5
+
+real	0m0.154s
+user	0m0.125s
+sys	0m0.040s
+Generating random string of length 10^4with k size of 5
+
+real	0m0.131s
+user	0m0.116s
+sys	0m0.039s
+Generating random string of length 10^4with k size of 5
+
+real	0m0.134s
+user	0m0.116s
+sys	0m0.037s
+Generating random string of length 10^5with k size of 6
+
+real	0m1.165s
+user	0m0.772s
+sys	0m0.216s
+Generating random string of length 10^5with k size of 6
+
+real	0m1.125s
+user	0m0.775s
+sys	0m0.239s
+Generating random string of length 10^5with k size of 6
+
+real	0m0.896s
+user	0m0.746s
+sys	0m0.199s
+Generating random string of length 10^5with k size of 6
+
+real	0m0.831s
+user	0m0.724s
+sys	0m0.177s
+Generating random string of length 10^5with k size of 6
+
+real	0m0.781s
+user	0m0.709s
+sys	0m0.151s
+Generating random string of length 10^6with k size of 7
+
+real	0m46.384s
+user	0m45.731s
+sys	0m1.016s
+Generating random string of length 10^6with k size of 7
+
+real	0m46.708s
+user	0m46.040s
+sys	0m1.158s
+Generating random string of length 10^6with k size of 7
+
+real	1m21.390s
+user	0m48.944s
+sys	0m3.750s
+Generating random string of length 10^6with k size of 7
+
+real	0m46.564s
+user	0m45.881s
+sys	0m1.085s
+Generating random string of length 10^6with k size of 7
+
+real	0m47.235s
+user	0m46.045s
+sys	0m1.152s
