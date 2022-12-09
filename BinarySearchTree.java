@@ -1,10 +1,7 @@
 public class BinarySearchTree {
     public TreeNode root;
 
-    public BinarySearchTree(){
-
-
-    }
+    public BinarySearchTree(){}
 
     public void create(){
         root = null;
